@@ -1,0 +1,29 @@
+
+SQL*Plus: Release 19.0.0.0.0 - Production on Fri Nov 11 12:10:30 2022
+Version 19.3.0.0.0
+
+Copyright (c) 1982, 2019, Oracle.  All rights reserved.
+
+Last Successful login time: Fri Nov 11 2022 11:38:36 +06:00
+
+Connected to:
+Oracle Database 19c Enterprise Edition Release 19.0.0.0.0 - Production
+Version 19.3.0.0.0
+
+
+Session altered.
+
+Installation backup.sql
+
+PL/SQL procedure successfully completed.
+
+Installation update.sql
+
+PL/SQL procedure successfully completed.
+
+SQL> 
+SQL> 
+SQL> 
+SQL> 
+SQL> 
+SQL> 

@@ -1,0 +1,3 @@
+2023-02-01 14:42:47.9783|INFO|JsonParser_2.Program|directory = C:\services\folder\
+2023-02-01 14:42:48.0193|INFO|JsonParser_2.Program|filePath = C:\services\folder\test.dat
+2023-02-01 14:42:48.2593|INFO|JsonParser_2.Program|JsonParser stops work  recordCnt = 0

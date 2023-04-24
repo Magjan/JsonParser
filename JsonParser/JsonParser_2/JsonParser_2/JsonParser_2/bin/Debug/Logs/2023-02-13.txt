@@ -1,0 +1,4 @@
+2023-02-13 15:18:32.5606|INFO|JsonParser_2.Program|directory = C:\services\folder\
+2023-02-13 15:18:32.6092|INFO|JsonParser_2.Program|filePath = C:\services\folder\20230124_200750_881_ISOMX_FEED.json
+2023-02-13 15:19:02.8945|INFO|JsonParser_2.Program|directory = C:\services\folder\
+2023-02-13 15:19:02.9335|INFO|JsonParser_2.Program|filePath = C:\services\folder\test.dat

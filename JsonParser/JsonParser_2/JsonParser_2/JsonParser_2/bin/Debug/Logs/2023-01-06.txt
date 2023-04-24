@@ -1,0 +1,12 @@
+2023-01-06 11:22:21.5807|INFO|JsonParser_2.Program|directory = C:\services\folder\
+2023-01-06 11:22:21.7337|INFO|JsonParser_2.Program|filePath = C:\services\folder\test.dat
+2023-01-06 11:23:34.9207|INFO|JsonParser_2.Program|directory = C:\services\folder\
+2023-01-06 11:23:34.9527|INFO|JsonParser_2.Program|filePath = C:\services\folder\test.dat
+2023-01-06 11:29:24.7140|INFO|JsonParser_2.Program|directory = C:\services\folder\
+2023-01-06 11:29:24.7900|INFO|JsonParser_2.Program|filePath = C:\services\folder\test.dat
+2023-01-06 11:35:29.2124|INFO|JsonParser_2.Program|directory = C:\services\folder\
+2023-01-06 11:35:29.3094|INFO|JsonParser_2.Program|filePath = C:\services\folder\test.dat
+2023-01-06 11:36:05.4367|INFO|JsonParser_2.Program|JsonParser stops work  recordCnt = 0
+2023-01-06 11:36:23.9148|INFO|JsonParser_2.Program|directory = C:\services\folder\
+2023-01-06 11:36:23.9548|INFO|JsonParser_2.Program|filePath = C:\services\folder\test.dat
+2023-01-06 11:36:24.0424|INFO|JsonParser_2.Program|JsonParser stops work  recordCnt = 0
